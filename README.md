@@ -40,6 +40,14 @@ The project follows these main steps:
 4. Create stock price and revenue visualizations using Matplotlib
 5. Analyze and interpret the observed trends
 
+## Visualizations
+### Tesla
+
+![Tesla Stock and Revenue Analysis](tesla_analysis.png)
+
+### GameStop
+
+![GameStop Stock and Revenue Analysis](gamestop_analysis.png)
 ## Analysis & Findings
 
 ### Tesla
