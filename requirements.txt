@@ -1,0 +1,5 @@
+yfinance - stock-market data
+pandas - data manipulation and cleaning
+matplotlib - graphs
+lxml - allows pandas.read_html() to read the revenue tables
+jupyter - allows the notebook to be run locally
