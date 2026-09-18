@@ -1,0 +1,13 @@
+## How to Run
+
+### 1. Clone the repository
+
+git clone <https://github.com/utks331/Tesla-GameStop-Analysis->
+
+### 2. Install the required dependencies
+
+pip install -r requirements.txt
+
+### 3. Open the Jupyter Notebook
+
+jupyter notebook Tesla_GameStop_Analysis.ipynb
